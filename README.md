@@ -23,15 +23,12 @@
 7. Patient admin -- Read doctors based on community, Read personal encounters, Read personal details, Edit personal details
    (if person books appointment then it creates encounter).
 8. Doctor admin -- Create encounter, Read encounters, Update encounter details, Update vital signs, Create vital signs.
-9. Sequence diagram and UML diagram are included in the README file.
+9. The patient can also book appointment.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 												HOW TO RUN THE PROJECT
 
-1. Open the project in NetBeans and run the main.java file
-2. Login to the System admin -- username and password is: systemadmin
-3. Login to the Hospital admin -- username and password is: hospitaladmin
-4. Login to the Community admin -- username and password is: communityadmin
-5. Login to the Patient admin -- username and password is: patientadmin
-6. Login to the Doctor admin -- username and password is: doctoradmin
+1. Open the project in NetBeans and run the LoginJframe.java file
+2. Login to the System admin -- username: prasad and password is: password
+3. Other logins are created manually during the run
 ---------------------------------------------------------------------------------------------------------------------------------------------------

@@ -24,6 +24,7 @@
    (if person books appointment then it creates encounter).
 8. Doctor admin -- Create encounter, Read encounters, Update encounter details, Update vital signs, Create vital signs.
 9. The patient can also book appointment.
+10. pdf of class diagram is added.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 												HOW TO RUN THE PROJECT
